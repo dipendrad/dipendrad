@@ -6,7 +6,7 @@
 
 -  I am a Computer Science Student.
 -  I am Currently working on Java and SQL Development project.
-- I have Good Understanding of Core Java and SQL, DBMS,Python,HTML,CSS Concept.
+- I have Good Understanding of C, Core Java and SQL, DBMS,Python,HTML,CSS Concept.
 
 <img src="https://komarev.com/ghpvc/?username=dipendrad&style=flat-square&color=blue" alt=""/>
 <h3 align="left">Languages and Tools:</h3>
