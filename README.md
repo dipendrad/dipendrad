@@ -1,11 +1,10 @@
 ### Hi 👋, I AM DIPENDRA YADAV.
 <div id="header" align="center">
-
   
 </div>
 
--  I am a Computer Science Student.
--  I am Currently working on Java and SQL Development project.
+- I am Currently learning Cassandra and Hadoop.
+- I am Currently working on Java and SQL project.
 - I have Good Understanding of C, Core Java and SQL, DBMS,Python,HTML,CSS Concept.
 
 
