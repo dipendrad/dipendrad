@@ -3,7 +3,7 @@
   
 </div>
 
-- I am Currently learning Linux and mongodb
+- I am Currently learning Linux and mongodb.
 - I am Currently working on Java and SQL project.
 - I have Good Understanding of C, Core Java and SQL, DBMS,Python,HTML,CSS Concept.
 
