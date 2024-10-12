@@ -25,10 +25,11 @@
   - Android Studio
   - Power BI
 - #### Other Skills:
+  - DBMS
   - Data Visualization
   - Database Design
   - Database security
-  - DBMS
+  - Computer Network
 
  <img src="https://komarev.com/ghpvc/?username=dipendrad&style=for-the-badge&color=blue" width="165" />
 </div>
