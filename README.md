@@ -5,8 +5,8 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Background: Computer Science graduate with a passion for database management, database security and data analysis.
-- 🌱 Learning Focus: Deepening my skills in SQL, data visualization, and database security.
+- 🎓 Background: Computer Science graduate with a passion for Cyber Security, database security and Ethical Hacking.
+- 🌱 Learning Focus: Deepening my skills in SQL, Kali Linux, network security, and database security.
 
 ### 🔧 Technologies & Tools
 
@@ -15,18 +15,21 @@
   - Core Java
   - C
   - Python
-  - HTML,CSS
   - MongoDB
+  
 - #### Tools:
+  
   - MySQL
-  - Linux
+  - Kali Linux
   - Netbeans
   - Excel
   - Android Studio
-  - Power BI
+  
 - #### Other Skills:
+
   - DBMS
-  - Data Visualization
+  - Wire Shark
+  - Nmap
   - Database Design
   - Database security
   - Computer Network
